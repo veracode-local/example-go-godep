@@ -1,0 +1,65 @@
+{
+	"ImportPath": "github.com/srcclr/example-go-godep",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v77",
+	"Deps": [
+		{
+			"ImportPath": "github.com/bitly/go-simplejson",
+			"Comment": "v0.5.0-4-gda1a892",
+			"Rev": "da1a8928f709389522c8023062a3739f3b4af419"
+		},
+		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v1.2-4-g42c364b",
+			"Rev": "42c364ba490082e4815b5222728711b3440603eb"
+		},
+		{
+			"ImportPath": "github.com/google/go-github/github",
+			"Rev": "27c7c32b6d369610435bd2ad7b4d8554f235eb01"
+		},
+		{
+			"ImportPath": "github.com/google/go-querystring/query",
+			"Rev": "53e6ce116135b80d037921a7fdd5138cf32d7a8a"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.6-9-gd228849",
+			"Rev": "d228849504861217f796da67fae4f6e347643f15"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "30a891c33c7cde7b02a981314b4228ec99380cca"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-runewidth",
+			"Comment": "v0.0.2-1-g14207d2",
+			"Rev": "14207d285c6c197daabb5c9793d63e7af9ab2d50"
+		},
+		{
+			"ImportPath": "github.com/nsf/termbox-go",
+			"Rev": "abe82ce5fb7a42fbd6784a5ceb71aff977e09ed8"
+		},
+		{
+			"ImportPath": "github.com/nwidger/jsoncolor",
+			"Rev": "0192e84d44af834c3a90c8a17bf670483b91ad5a"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-2-g248dadf",
+			"Rev": "248dadf4e9068a0b3e79f02ed0a610d935de5302"
+		},
+		{
+			"ImportPath": "github.com/simeji/jid",
+			"Comment": "0.7.2",
+			"Rev": "9090f06e9643aa1a4e95904a4ebbd6d186b3a20f"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
+		},
+    {
+			"ImportPath": "github.com/square/go-jose",
+			"Rev": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a"
+		}
+	]
+}
