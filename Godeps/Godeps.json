@@ -54,12 +54,20 @@
 			"Rev": "9090f06e9643aa1a4e95904a4ebbd6d186b3a20f"
 		},
 		{
-			"ImportPath": "golang.org/x/sys/unix",
-			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
-		},
-    {
 			"ImportPath": "github.com/square/go-jose",
 			"Rev": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a"
+		},
+		{
+			"ImportPath": "github.com/square/go-jose/cipher",
+			"Rev": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a"
+		},
+		{
+			"ImportPath": "github.com/square/go-jose/json",
+			"Rev": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
 		}
 	]
 }
