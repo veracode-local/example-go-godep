@@ -16,3 +16,4 @@ There are 2 ways to scan this project.
 1. git clone https://github.com/srcclr/example-go-godep/ $GOPATH/src/github.com/srcclr/example-go-godep/
 2. srcclr scan $GOPATH/src/github.com/srcclr/example-go-godep/
 ```
+test 123
